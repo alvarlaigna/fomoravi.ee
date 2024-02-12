@@ -23,6 +23,16 @@ export default defineConfig({
   image: {
     domains: ["astro.build"]
   },
-  output: "server",
-  adapter: vercel()
+  vite: {
+    optimizeDeps: {
+      exclude: ["@resvg/resvg-js"],
+    },
+  },
+  output: "hybrid",
+  adapter: vercel({
+    edgeMiddleware: true,
+    webAnalytics: {
+      enabled: true,
+    },
+  }),
 });
