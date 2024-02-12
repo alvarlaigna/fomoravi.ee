@@ -1,12 +1,12 @@
 {
-  "spotify": "",
-  "googlePodcast": "",
-  "applePodcast": "",
+  "spotify": "https://open.spotify.com/show/6prEQmIKJKoxC0XnJtjxW0",
+  "googlePodcast": "https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy81YmE1ZDIyYy9wb2RjYXN0L3Jzcw==",
+  "applePodcast": "https://podcasts.apple.com/us/podcast/fomo-taastusravi/id1569002302",
   "easyPodcast": "",
-  "amazonMusic": "",
+  "amazonMusic": "https://music.amazon.com/podcasts/f4643f84-f168-4637-941c-6a24ff9044dc/fomo-taastusravi",
   "fountain": "",
   "ivoox": "",
-  "pocketcasts": "",
+  "pocketcasts": "https://pca.st/7stsiook",
   "deezer": "",
   "acastPodcasts": ""
 }

@@ -1,8 +1,10 @@
 ---
 import EpisodeLayout from "../layouts/EpisodeLayout.astro";
 import astropodConfig from "../../.astropod/astropod.config.json";
+
+let updatedDescription = astropodConfig.description.replace(/(https?:\/\/[^\s]+)/g, '<a href="$1" target="_blank">$1</a>');
 ---
 
-<EpisodeLayout title="About" description={astropodConfig.description} cover={astropodConfig.cover}>
-  {astropodConfig.description}
+<EpisodeLayout title="About" description={astropodConfig.description} cover={astropodConfig.cover}>  
+  <div set:html={updatedDescription.split('\n').map(line => `<p>${line}</p>`)}></div>
 </EpisodeLayout>

@@ -1,23 +1,23 @@
 {
-  "copyright": "",
-  "theme": "light",
+  "copyright": "2024 FOMO Taastusravi",
+  "theme": "cyberpunk",
   "fundingText": "",
-  "author": "Author's name",
-  "name": "Podcast Name",
+  "author": "Alvar Laigna, Tarmo Annus",
+  "name": "FOMO Taastusravi",
   "banner": "/banner.webp",
-  "pageSize": 15,
+  "pageSize": 10,
   "fundingUrl": "",
   "owner": "",
   "favicon": "/favicon.svg",
   "explicit": false,
   "cover": "/cover.jpg",
-  "language": "en",
-  "link": "https://your-website-url.netlify.app",
-  "email": "your.email@gmail.com",
-  "description": "A short description of your podcast. We suggest creating a podcast description between 600-900 characters or 120-170 words in length.",
+  "language": "et",
+  "link": "https://fomoravi.ee",
+  "email": "info@fomoravi.ee",
+  "description": "Sul on FOMO sõltuvus, sa vajad abi, tere tulemast FOMO taastusravile.\n\n\nToome teieni uudiseid krüptoraha ja plokiahela maailmast, jutustame põnevaid lugusid boonusepisoodidena. Lisaks on meie haruldased ja omanäolised saadete pildid saadavad NFT kunstina mida koguda ja mäletada - https://opensea.io/collection/fomo-taastusravi\n\nAitame teil püsida kursis krüpto uudistega, hoiatame ohtude ja pahavara eest ning maandame pingeid ja stressi ravides FOMO nähtusid. ",
   "category": [
     "Technology",
-    "Business"
+    "Health &amp; Fitness"
   ],
   "feedSize": ""
 }
