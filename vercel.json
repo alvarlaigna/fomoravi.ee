@@ -1,0 +1,10 @@
+{
+    "redirects": [
+        {
+            "source": "/admin",
+            "destination": "/",
+            "permanent": false,
+            "statusCode": 307
+        }
+    ]
+}
