@@ -55,16 +55,12 @@
     ],
     "redirects": [
         {
-            "source": "/admin",
-            "destination": "/",
-            "permanent": true,
-            "statusCode": 307
+          "source": "/admin#",
+          "destination": "https://fomoravi.ee"
         },
         {
-            "source": "/admin#",
-            "destination": "/",
-            "permanent": true,
-            "statusCode": 307
+            "source": "/admin",
+            "destination": "https://fomoravi.ee"
         }
     ]
 }
