@@ -11,26 +11,26 @@ season: 1
 episodeType: "bonus"
 ---
 
-Ubisofti NFT saavad kriitikat ka meediast. Mõned vist hakkavad aru saama, et selleks, et saada mõningaid NFT’sid, tuleb Ghost Recon Breakpoint mängu mängida 600 tundi, mis kulutab ka energiat. Loomulikult nad süüdistavad selles ikkagi NFT’sid.\
-Esimene metaverse mäng nimega Moonray tuleb Bitcoini L2 sidechain’il nimega Stacks. Kummalisel kombel tuleb see ka Steam’i, kuigi Steam keelas ära sellised mängud\
-Wordpress keynote’il oli teemaks Web3 ja NFT-d.\
-Digiturunduse tööriist Mediamodifier lanseeris uues disainieditor’is OpenSea peale NFT mint’imise võimaluse\
-Kickstarter teeb spin-off lehe, mis kasutab Celo plokiahelat ja tulevikus peaks asendama praeguse lehe. Ignorantsed inimesed, kes pole Proof of Stake’ist kuulnud on jälle pissed Twitteris, isegi kui Kickstarter lubab olla süsinikuneutraalne.\
-Kuna arvutimänge kajastavad Eesti taskuhäälingud ignoreerivad plokiahela mänge ja krüptorahadest/NFT’dest nad mütsigi ei jaga, otsustasime oma Youtube kanali teha, kuhu plaanime üles laadida ainult krüptoga seotud mängude videosid\
-Sandbox Game https://youtu.be/vRpdE7UblYs\
-Puhata ja Mängida Ubisoft NFT kajastus https://youtu.be/jzRSbOplraE?t=1621\
-Level1 Ubisoft NFT kajastus https://youtu.be/nYWgX-O9MfY?t=2622\
-Saatke meile https://www.fomoravi.ee/contact/ lehelt oma OpenSea aadress ja vastus küsimusele: Kui mitu korda on meie Sandbox videos kasutatud ropu sõna asemel piiksu? Vastajate vahel loosime kolm meie saate NFT’d.\
-Gala Games (Zynga co-founder’i startup) üritusel nimega Galaverse tehti avalikuks koostöö mängudisaineritega Peter Molyneux ja Will Wright\
-Peter Molyneux (Populous, Dungeon Keeper, Black & White, Fable, Movies) ja tema ettevõte 22cans teevad ka plokiahela mängu, finants simulaatorit nimega Legacy. Mängu tehakse koostöös Gala Games-iga. Twitter ja mängude meedia on jälle leekides.\
-Will Wright (SimCity, The Sims, Spore) teeb ka koostööd Gala Games’iga, et arendada VOXverse mängu. See ei ole tema esimene NFT mäng, 20ndas saates rääkisime, et ta arendab ka NFT mängu nimega Proxi ettevõttes Gallium Studios.\
-Mike Judge (Beavis and Butthead, King of the Hill, Office Space, Idiocracy, Silicon Valley) kavatseb SuperRare marketplace’il müüa oma NFT kunsti ja animatsioone\
-Animoca Brands ja Igavlevad Ahvid (Bored Apes Yacht Club) teevad koostööd, et luua NFT mängu\
-CryptoPunks omanikud on frustreeritud Larva Labs’iga, kes pole avalikustanud millise copyright litsentsi kasutajad saavad kui on ostnud NFT, seda enam ka sellepärast, et Larva Labs on saatnud DMCA takedown notice nendele projektidele, kes on teinud CryptoPunks’st derivatiive/koopiaid\
-Justin Kan (Twitch looja) teeb Solana peale NFT marketplace’i nimega Fractal (@fractalwagmi Twitteris)\
-https://cutt.ly/AY0Jx3h\
-https://cutt.ly/TY0JvgD\
-\
---- \
-\
-Send in a voice message: https://podcasters.spotify.com/pod/show/fomo-taastusravi/message
+Ubisofti NFT saavad kriitikat ka meediast. Mõned vist hakkavad aru saama, et selleks, et saada mõningaid NFT’sid, tuleb Ghost Recon Breakpoint mängu mängida 600 tundi, mis kulutab ka energiat. Loomulikult nad süüdistavad selles ikkagi NFT’sid.  
+Esimene metaverse mäng nimega Moonray tuleb Bitcoini L2 sidechain’il nimega Stacks. Kummalisel kombel tuleb see ka Steam’i, kuigi Steam keelas ära sellised mängud  
+Wordpress keynote’il oli teemaks Web3 ja NFT-d.  
+Digiturunduse tööriist Mediamodifier lanseeris uues disainieditor’is OpenSea peale NFT mint’imise võimaluse  
+Kickstarter teeb spin-off lehe, mis kasutab Celo plokiahelat ja tulevikus peaks asendama praeguse lehe. Ignorantsed inimesed, kes pole Proof of Stake’ist kuulnud on jälle pissed Twitteris, isegi kui Kickstarter lubab olla süsinikuneutraalne.  
+Kuna arvutimänge kajastavad Eesti taskuhäälingud ignoreerivad plokiahela mänge ja krüptorahadest/NFT’dest nad mütsigi ei jaga, otsustasime oma Youtube kanali teha, kuhu plaanime üles laadida ainult krüptoga seotud mängude videosid  
+Sandbox Game [https://youtu.be/vRpdE7UblYs](https://youtu.be/vRpdE7UblYs)  
+Puhata ja Mängida Ubisoft NFT kajastus [https://youtu.be/jzRSbOplraE?t=1621](https://youtu.be/jzRSbOplraE?t=1621)  
+Level1 Ubisoft NFT kajastus [https://youtu.be/nYWgX-O9MfY?t=2622](https://youtu.be/nYWgX-O9MfY?t=2622)  
+Saatke meile [https://www.fomoravi.ee/contact/](https://www.fomoravi.ee/contact/) lehelt oma OpenSea aadress ja vastus küsimusele: Kui mitu korda on meie Sandbox videos kasutatud ropu sõna asemel piiksu? Vastajate vahel loosime kolm meie saate NFT’d.  
+Gala Games (Zynga co-founder’i startup) üritusel nimega Galaverse tehti avalikuks koostöö mängudisaineritega Peter Molyneux ja Will Wright  
+Peter Molyneux (Populous, Dungeon Keeper, Black & White, Fable, Movies) ja tema ettevõte 22cans teevad ka plokiahela mängu, finants simulaatorit nimega Legacy. Mängu tehakse koostöös Gala Games-iga. Twitter ja mängude meedia on jälle leekides.  
+Will Wright (SimCity, The Sims, Spore) teeb ka koostööd Gala Games’iga, et arendada VOXverse mängu. See ei ole tema esimene NFT mäng, 20ndas saates rääkisime, et ta arendab ka NFT mängu nimega Proxi ettevõttes Gallium Studios.  
+Mike Judge (Beavis and Butthead, King of the Hill, Office Space, Idiocracy, Silicon Valley) kavatseb SuperRare marketplace’il müüa oma NFT kunsti ja animatsioone  
+Animoca Brands ja Igavlevad Ahvid (Bored Apes Yacht Club) teevad koostööd, et luua NFT mängu  
+CryptoPunks omanikud on frustreeritud Larva Labs’iga, kes pole avalikustanud millise copyright litsentsi kasutajad saavad kui on ostnud NFT, seda enam ka sellepärast, et Larva Labs on saatnud DMCA takedown notice nendele projektidele, kes on teinud CryptoPunks’st derivatiive/koopiaid  
+Justin Kan (Twitch looja) teeb Solana peale NFT marketplace’i nimega Fractal (@fractalwagmi Twitteris)  
+[https://cutt.ly/AY0Jx3h](https://cutt.ly/AY0Jx3h)  
+[https://cutt.ly/TY0JvgD](https://cutt.ly/TY0JvgD)  
+  
+---   
+  
+Send in a voice message: [https://podcasters.spotify.com/pod/show/fomo-taastusravi/message](https://podcasters.spotify.com/pod/show/fomo-taastusravi/message)

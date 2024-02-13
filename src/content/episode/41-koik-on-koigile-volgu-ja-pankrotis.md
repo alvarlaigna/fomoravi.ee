@@ -11,32 +11,32 @@ season: 2
 episodeType: "full"
 ---
 
-MtGox maksab eeldatavasti välja 150 tuhat Bitcoini (3 miljardit dollarit) augustikuus\
-Celsius, BlockFi, 3AC ja Voyager Digital on suurtes raskustes\
-Tether ka rahustab inimesi, et nende stsbiilsusraha ei ole Celsius'est sõltuv, aga USDT depeg'i on jälle näha\
-Isegi USDC kohta levitati kuulujutte\
-USDC emiteerija Circle plaanib teha eurodega tagatud stabiilsusraha EUROC\
-BitPanda lisas enda platvormile EUROC stabiilsusraha\
-Mitmed börsid, sealhulgas ka Crypto.com ja BitPanda on vähendanud on töötajate arvu (Coinbase plaanib isegi 18%), Binance aga plaanib juurde palgata\
-Langevad hinnad on ka Kraken'isse halva õhkkonna loonud\
-Bitstamp tahtis hakata 10 eurot kuus kontolt võtma kui kontol on alla €200 ja seda ei kasutata, siis muutiS meelt\
-Kazakhstanis on majandustsoonid, kus krüptobörsid saavad pangakonto avada\
-Grayscale kaebab SEC kohtusse, et need keeldusid spot-hinnaga Bitcoin ETF'ist\
-Ühendkuningriigid matsid maha idee kõikide un-hosted (non-custodial, self-hosted) kohta infot koguda\
-Algselt plaaniti Euroopas, et börsid peavad koguma infot kõikide un-hosted aadressite kohta\
-Sellega seoses hakkab Coinbase Hollandi kasutajatelt nõudma raha sisse- ja väljakandeid ainult eelnevalt kinnitatud aadressidega\
-Positiivne Coinbase uudis on aga see, et nüüd on võimalik kasutada Polygon bridge'itud tokeneid\
-Coinbase kaotab ära Coinbase Pro UI ja see asendatakse tavalise Coinbase Advanced Trade UI'ga\
-Solana kavatseb teha oma mobiiltelefoni Saga ja SDK (SMS). See idee kõlab kahtlaselt Sirin Labs ICO-le\
-Solana't süüdistatakse (class action lawsuit), et see on väärtpaber\
-Solend \"DeFi\" platvormil on võimalus kasutajate vara röövida\
-Lõpuks võttis tohutud suure deposiidiga kasutaja Solend tiimiga ühendust ja nende soovitusel jagas oma raha mitme teise platvormi vahel ära\
-Hiljuti tegi Optimism L2 tokeni airdropi, nüüd aga Hop Bridge\
-Häkiti Horizon nimeline bridge HarmonyOne, Ethereum'i ja Binance Smart Chain vahel, häkker sai 100 miljonit dollarit, mille ta kandis Tornado mixer'isse\
-Ronin bridge on nüüd jälle avatud\
-Cincinnati Ülikool Ohio's tegi Krüptoekonoomika labori ja krüptoraha teemalise kursuse\
-https://cutt.ly/zLBRoIf\
-\
---- \
-\
-Send in a voice message: https://podcasters.spotify.com/pod/show/fomo-taastusravi/message
+MtGox maksab eeldatavasti välja 150 tuhat Bitcoini (3 miljardit dollarit) augustikuus  
+Celsius, BlockFi, 3AC ja Voyager Digital on suurtes raskustes  
+Tether ka rahustab inimesi, et nende stsbiilsusraha ei ole Celsius'est sõltuv, aga USDT depeg'i on jälle näha  
+Isegi USDC kohta levitati kuulujutte  
+USDC emiteerija Circle plaanib teha eurodega tagatud stabiilsusraha EUROC  
+BitPanda lisas enda platvormile EUROC stabiilsusraha  
+Mitmed börsid, sealhulgas ka Crypto.com ja BitPanda on vähendanud on töötajate arvu (Coinbase plaanib isegi 18%), Binance aga plaanib juurde palgata  
+Langevad hinnad on ka Kraken'isse halva õhkkonna loonud  
+Bitstamp tahtis hakata 10 eurot kuus kontolt võtma kui kontol on alla €200 ja seda ei kasutata, siis muutiS meelt  
+Kazakhstanis on majandustsoonid, kus krüptobörsid saavad pangakonto avada  
+Grayscale kaebab SEC kohtusse, et need keeldusid spot-hinnaga Bitcoin ETF'ist  
+Ühendkuningriigid matsid maha idee kõikide un-hosted (non-custodial, self-hosted) kohta infot koguda  
+Algselt plaaniti Euroopas, et börsid peavad koguma infot kõikide un-hosted aadressite kohta  
+Sellega seoses hakkab Coinbase Hollandi kasutajatelt nõudma raha sisse- ja väljakandeid ainult eelnevalt kinnitatud aadressidega  
+Positiivne Coinbase uudis on aga see, et nüüd on võimalik kasutada Polygon bridge'itud tokeneid  
+Coinbase kaotab ära Coinbase Pro UI ja see asendatakse tavalise Coinbase Advanced Trade UI'ga  
+Solana kavatseb teha oma mobiiltelefoni Saga ja SDK (SMS). See idee kõlab kahtlaselt Sirin Labs ICO-le  
+Solana't süüdistatakse (class action lawsuit), et see on väärtpaber  
+Solend "DeFi" platvormil on võimalus kasutajate vara röövida  
+Lõpuks võttis tohutud suure deposiidiga kasutaja Solend tiimiga ühendust ja nende soovitusel jagas oma raha mitme teise platvormi vahel ära  
+Hiljuti tegi Optimism L2 tokeni airdropi, nüüd aga Hop Bridge  
+Häkiti Horizon nimeline bridge HarmonyOne, Ethereum'i ja Binance Smart Chain vahel, häkker sai 100 miljonit dollarit, mille ta kandis Tornado mixer'isse  
+Ronin bridge on nüüd jälle avatud  
+Cincinnati Ülikool Ohio's tegi Krüptoekonoomika labori ja krüptoraha teemalise kursuse  
+[https://cutt.ly/zLBRoIf](https://cutt.ly/zLBRoIf)  
+  
+---   
+  
+Send in a voice message: [https://podcasters.spotify.com/pod/show/fomo-taastusravi/message](https://podcasters.spotify.com/pod/show/fomo-taastusravi/message)

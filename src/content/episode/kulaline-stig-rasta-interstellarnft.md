@@ -11,12 +11,12 @@ season: 2
 episodeType: "bonus"
 ---
 
-Stig Rästa lõi InterstellarNFT mille missiooniks on samanimeline laul Eurovisioonile viia! \
-https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/3564292933429004605942472409136822267954368589169201399405327422624393855976 \
-https://open.spotify.com/track/1WkFKSzaOZOXZZBG7Ip6ug?\
-https://www.youtube.com/watch?v=59_5n8DEZ0I\
-https://cointurtle.com/\
-\
---- \
-\
-Send in a voice message: https://podcasters.spotify.com/pod/show/fomo-taastusravi/message
+Stig Rästa lõi InterstellarNFT mille missiooniks on samanimeline laul Eurovisioonile viia!   
+[https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/3564292933429004605942472409136822267954368589169201399405327422624393855976](https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/3564292933429004605942472409136822267954368589169201399405327422624393855976)   
+[https://open.spotify.com/track/1WkFKSzaOZOXZZBG7Ip6ug?](https://open.spotify.com/track/1WkFKSzaOZOXZZBG7Ip6ug?)  
+[https://www.youtube.com/watch?v=59_5n8DEZ0I](https://www.youtube.com/watch?v=59_5n8DEZ0I)  
+[https://cointurtle.com/](https://cointurtle.com/)  
+  
+---   
+  
+Send in a voice message: [https://podcasters.spotify.com/pod/show/fomo-taastusravi/message](https://podcasters.spotify.com/pod/show/fomo-taastusravi/message)

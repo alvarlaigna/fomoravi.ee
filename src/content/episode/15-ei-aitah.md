@@ -11,31 +11,31 @@ season: 1
 episodeType: "full"
 ---
 
-1. Õngitsemine on 10x kasvanud, algas Pangaliidu kampaania “Ei, aitäh”\
-https://www.politsei.ee/et/uudised/algab-finantspettuste-vastane-kampaania-ei-aitaeh-2455\
-https://decrypt.co/78715/crypto-exchanges-see-10x-increase-phishing-attacks-says-new-report\
-2. Whitehat häkker päästis SushiSwap MISO platformil 350 miljonit\
-https://www.paradigm.xyz/2021/08/two-rights-might-make-a-wrong/\
-3. Jaapani börss nimega Liquid häkitud\
-https://cointelegraph.com/news/breaking-liquid-exchange-hacked-to-the-tune-of-80-million/\
-4. Jaapanis avati Coinbase\
-https://cointelegraph.com/news/coinbase-goes-live-in-japan-in-partnership-with-banking-giant-mufg/\
-5. Kõik uued Binance kasutajas peavad tegema KYC, vanad kasutajad saavad ainult välja kanda\
-https://www.theblockcrypto.com/linked/115166/binance-mandatory-kyc-regulatory-pressure\
-6. Binance US CEO lahkus, sest CZ keeldus loobumast kontrollist US firma üle\
-https://decrypt.co/78963/binance-brooks-resignation-binance-cz\
-7. Maksete vahendajad survestavad OnlyFansi, PornHub valis krüptoraha, aga OF mitte\
-https://decrypt.co/78988/pornhub-embraced-bitcoin-onlyfans\
-8. Twitter palkas Zcash arendaja juhtima Bluesky nimelise sotsiaalvõrgu loomist\
-https://decrypt.co/78652/twitter-names-former-zcash-dev-head-decentralized-social-network-bluesky\
-9. Facebook DIEM (endine Libra) krüptoraha rahakotirakendus Novi (endine Calibra) on valmis lanseerimiseks\
-https://decrypt.co/78891/facebook-crypto-wallet-is-ready-market-is-market-ready-novi\
-10. 12 aastane tegi Igavad Banaanid NFT scripti abil oma Imelikud Vaalad NFT ja müüs 106 ETH (300 tuhat dollari eest)\
-https://decrypt.co/76759/weird-whales-nfts-12-year-old-ethereum\
-11. EtherRocks NFT müüdi 600 tuhande dollari eest, odavaim kivi on tõusnud 900% kahe nädalaga. Kokku on vaid 100 kivi\
-https://decrypt.co/79125/ethereum-rock-jpeg-sells-for-600k-as-nft-frenzy-continues\
-https://cryptohayes.medium.com/rock-paper-scissors-says-go-a3641dfe132c\
-\
---- \
-\
-Send in a voice message: https://podcasters.spotify.com/pod/show/fomo-taastusravi/message
+1. Õngitsemine on 10x kasvanud, algas Pangaliidu kampaania “Ei, aitäh”  
+[https://www.politsei.ee/et/uudised/algab-finantspettuste-vastane-kampaania-ei-aitaeh-2455](https://www.politsei.ee/et/uudised/algab-finantspettuste-vastane-kampaania-ei-aitaeh-2455)  
+[https://decrypt.co/78715/crypto-exchanges-see-10x-increase-phishing-attacks-says-new-report](https://decrypt.co/78715/crypto-exchanges-see-10x-increase-phishing-attacks-says-new-report)  
+2. Whitehat häkker päästis SushiSwap MISO platformil 350 miljonit  
+[https://www.paradigm.xyz/2021/08/two-rights-might-make-a-wrong/](https://www.paradigm.xyz/2021/08/two-rights-might-make-a-wrong/)  
+3. Jaapani börss nimega Liquid häkitud  
+[https://cointelegraph.com/news/breaking-liquid-exchange-hacked-to-the-tune-of-80-million/](https://cointelegraph.com/news/breaking-liquid-exchange-hacked-to-the-tune-of-80-million/)  
+4. Jaapanis avati Coinbase  
+[https://cointelegraph.com/news/coinbase-goes-live-in-japan-in-partnership-with-banking-giant-mufg/](https://cointelegraph.com/news/coinbase-goes-live-in-japan-in-partnership-with-banking-giant-mufg/)  
+5. Kõik uued Binance kasutajas peavad tegema KYC, vanad kasutajad saavad ainult välja kanda  
+[https://www.theblockcrypto.com/linked/115166/binance-mandatory-kyc-regulatory-pressure](https://www.theblockcrypto.com/linked/115166/binance-mandatory-kyc-regulatory-pressure)  
+6. Binance US CEO lahkus, sest CZ keeldus loobumast kontrollist US firma üle  
+[https://decrypt.co/78963/binance-brooks-resignation-binance-cz](https://decrypt.co/78963/binance-brooks-resignation-binance-cz)  
+7. Maksete vahendajad survestavad OnlyFansi, PornHub valis krüptoraha, aga OF mitte  
+[https://decrypt.co/78988/pornhub-embraced-bitcoin-onlyfans](https://decrypt.co/78988/pornhub-embraced-bitcoin-onlyfans)  
+8. Twitter palkas Zcash arendaja juhtima Bluesky nimelise sotsiaalvõrgu loomist  
+[https://decrypt.co/78652/twitter-names-former-zcash-dev-head-decentralized-social-network-bluesky](https://decrypt.co/78652/twitter-names-former-zcash-dev-head-decentralized-social-network-bluesky)  
+9. Facebook DIEM (endine Libra) krüptoraha rahakotirakendus Novi (endine Calibra) on valmis lanseerimiseks  
+[https://decrypt.co/78891/facebook-crypto-wallet-is-ready-market-is-market-ready-novi](https://decrypt.co/78891/facebook-crypto-wallet-is-ready-market-is-market-ready-novi)  
+10. 12 aastane tegi Igavad Banaanid NFT scripti abil oma Imelikud Vaalad NFT ja müüs 106 ETH (300 tuhat dollari eest)  
+[https://decrypt.co/76759/weird-whales-nfts-12-year-old-ethereum](https://decrypt.co/76759/weird-whales-nfts-12-year-old-ethereum)  
+11. EtherRocks NFT müüdi 600 tuhande dollari eest, odavaim kivi on tõusnud 900% kahe nädalaga. Kokku on vaid 100 kivi  
+[https://decrypt.co/79125/ethereum-rock-jpeg-sells-for-600k-as-nft-frenzy-continues](https://decrypt.co/79125/ethereum-rock-jpeg-sells-for-600k-as-nft-frenzy-continues)  
+[https://cryptohayes.medium.com/rock-paper-scissors-says-go-a3641dfe132c](https://cryptohayes.medium.com/rock-paper-scissors-says-go-a3641dfe132c)  
+  
+---   
+  
+Send in a voice message: [https://podcasters.spotify.com/pod/show/fomo-taastusravi/message](https://podcasters.spotify.com/pod/show/fomo-taastusravi/message)

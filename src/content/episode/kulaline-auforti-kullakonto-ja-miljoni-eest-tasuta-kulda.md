@@ -11,10 +11,10 @@ season: 1
 episodeType: "bonus"
 ---
 
-AufortGold on füüsiline kuld, mida hoiustatakse sinu eest turvalises varahoidlas\
-https://www.aufort.gold/et/gold-account\
-https://giveaway.aufort.gold/\
-\
---- \
-\
-Send in a voice message: https://podcasters.spotify.com/pod/show/fomo-taastusravi/message
+AufortGold on füüsiline kuld, mida hoiustatakse sinu eest turvalises varahoidlas  
+[https://www.aufort.gold/et/gold-account](https://www.aufort.gold/et/gold-account)  
+[https://giveaway.aufort.gold/](https://giveaway.aufort.gold/)  
+  
+---   
+  
+Send in a voice message: [https://podcasters.spotify.com/pod/show/fomo-taastusravi/message](https://podcasters.spotify.com/pod/show/fomo-taastusravi/message)

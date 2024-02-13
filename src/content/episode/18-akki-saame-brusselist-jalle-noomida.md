@@ -11,49 +11,49 @@ season: 1
 episodeType: "full"
 ---
 
-1. 3 kuud tagasi heaks kiidetud Taproot on Bitcoin Core v22-s valmis\
-https://cutt.ly/5ElbmyM\
-https://bitcoincore.org/en/releases/22.0/\
-2. SushiSwap MISO jälle häkitud, sest Github koodi ei vaadatud korralikult üle\
-https://cutt.ly/OElbEbw\
-https://cutt.ly/0ElbRQA\
-https://cutt.ly/vElbTDX\
-https://cutt.ly/iElbYE5\
-3. Revolut maksab uue WeWork kontori üüri Bitcoiniga, makses BitPay-le\
-https://cutt.ly/gElbUlP\
-4. Solana validaatoritel sai mälu otsa - lõputu ahela forkimise põhjustas Raydium IDO Solana peal\
-https://cutt.ly/qElbI5i\
-https://cutt.ly/mElbAei\
-https://cutt.ly/gElbSQh\
-https://cutt.ly/uElbDfR\
-5. Avalanche tegi privaatse tokenite müügi 230 miljoni eest\
-https://cutt.ly/JElbFyX\
-https://cutt.ly/RElbFDF\
-https://cutt.ly/gElbGDQ\
-6. Coinseed börs konverteerist kasutajate raha DOGE-ks, ilma nendelt luba küsimata\
-https://cutt.ly/eElbJsM\
-7. OpenSea kinnitas, et üks juhtkonnast (Nate Chastain - tootejuht) pani oma mitte-ametliku konto NFTsid featured esilehele\
-https://cutt.ly/rElbKKO\
-8. Binance US-il kaelas CFTC\
-https://cutt.ly/tElbCOe\
-9. Üks HEX tokeni omanikke kaebab CoinMarketCapi kohtusse, sest on HEX positsiooni manipuleerinud\
-10. Üks Coinbase-i juhtidest (CLO) müüs aktsiaid enne kui nad SECi probleem Lend tokeniga avalikuks tehti\
-https://cutt.ly/6ElbNUF\
-11. Coinbase loobub Lend projektist, kuigi üle saja tuhande inimese oli registreerinud ootenimekirja\
-https://cutt.ly/bElbMwH\
-12. SEC ütleb, et Coinbase-il saab kaubelda mitmete tokenitega, mis võivad olla väärtpaberid\
-https://cutt.ly/CElbM2o\
-13. Coinbase tõstab 1.5 miljardit kasvamiseks, soovivad hakata kauplema futuuridega\
-https://cutt.ly/EElb2g0\
-14. Peaminister Kaja Kallas ütles, et Eesti ei lähe Bitcoini legaalseks maksevahendiks tegema\
-https://cutt.ly/pElb9jN\
-15. Rahandusminister Keit Pentus-Rosimannus soovib krüptolitsentside andmise peatada\
-https://cutt.ly/WElb9VH\
-https://cutt.ly/uElb4ub\
-16. MicroStrategy ostab Bitcoini jälle 240 miljoni dollari eest, keskmiselt 48 tuhat BTC kohta\
-https://cutt.ly/pElb47M\
-https://cutt.ly/qElb7F3\
-\
---- \
-\
-Send in a voice message: https://podcasters.spotify.com/pod/show/fomo-taastusravi/message
+1. 3 kuud tagasi heaks kiidetud Taproot on Bitcoin Core v22-s valmis  
+[https://cutt.ly/5ElbmyM](https://cutt.ly/5ElbmyM)  
+[https://bitcoincore.org/en/releases/22.0/](https://bitcoincore.org/en/releases/22.0/)  
+2. SushiSwap MISO jälle häkitud, sest Github koodi ei vaadatud korralikult üle  
+[https://cutt.ly/OElbEbw](https://cutt.ly/OElbEbw)  
+[https://cutt.ly/0ElbRQA](https://cutt.ly/0ElbRQA)  
+[https://cutt.ly/vElbTDX](https://cutt.ly/vElbTDX)  
+[https://cutt.ly/iElbYE5](https://cutt.ly/iElbYE5)  
+3. Revolut maksab uue WeWork kontori üüri Bitcoiniga, makses BitPay-le  
+[https://cutt.ly/gElbUlP](https://cutt.ly/gElbUlP)  
+4. Solana validaatoritel sai mälu otsa - lõputu ahela forkimise põhjustas Raydium IDO Solana peal  
+[https://cutt.ly/qElbI5i](https://cutt.ly/qElbI5i)  
+[https://cutt.ly/mElbAei](https://cutt.ly/mElbAei)  
+[https://cutt.ly/gElbSQh](https://cutt.ly/gElbSQh)  
+[https://cutt.ly/uElbDfR](https://cutt.ly/uElbDfR)  
+5. Avalanche tegi privaatse tokenite müügi 230 miljoni eest  
+[https://cutt.ly/JElbFyX](https://cutt.ly/JElbFyX)  
+[https://cutt.ly/RElbFDF](https://cutt.ly/RElbFDF)  
+[https://cutt.ly/gElbGDQ](https://cutt.ly/gElbGDQ)  
+6. Coinseed börs konverteerist kasutajate raha DOGE-ks, ilma nendelt luba küsimata  
+[https://cutt.ly/eElbJsM](https://cutt.ly/eElbJsM)  
+7. OpenSea kinnitas, et üks juhtkonnast (Nate Chastain - tootejuht) pani oma mitte-ametliku konto NFTsid featured esilehele  
+[https://cutt.ly/rElbKKO](https://cutt.ly/rElbKKO)  
+8. Binance US-il kaelas CFTC  
+[https://cutt.ly/tElbCOe](https://cutt.ly/tElbCOe)  
+9. Üks HEX tokeni omanikke kaebab CoinMarketCapi kohtusse, sest on HEX positsiooni manipuleerinud  
+10. Üks Coinbase-i juhtidest (CLO) müüs aktsiaid enne kui nad SECi probleem Lend tokeniga avalikuks tehti  
+[https://cutt.ly/6ElbNUF](https://cutt.ly/6ElbNUF)  
+11. Coinbase loobub Lend projektist, kuigi üle saja tuhande inimese oli registreerinud ootenimekirja  
+[https://cutt.ly/bElbMwH](https://cutt.ly/bElbMwH)  
+12. SEC ütleb, et Coinbase-il saab kaubelda mitmete tokenitega, mis võivad olla väärtpaberid  
+[https://cutt.ly/CElbM2o](https://cutt.ly/CElbM2o)  
+13. Coinbase tõstab 1.5 miljardit kasvamiseks, soovivad hakata kauplema futuuridega  
+[https://cutt.ly/EElb2g0](https://cutt.ly/EElb2g0)  
+14. Peaminister Kaja Kallas ütles, et Eesti ei lähe Bitcoini legaalseks maksevahendiks tegema  
+[https://cutt.ly/pElb9jN](https://cutt.ly/pElb9jN)  
+15. Rahandusminister Keit Pentus-Rosimannus soovib krüptolitsentside andmise peatada  
+[https://cutt.ly/WElb9VH](https://cutt.ly/WElb9VH)  
+[https://cutt.ly/uElb4ub](https://cutt.ly/uElb4ub)  
+16. MicroStrategy ostab Bitcoini jälle 240 miljoni dollari eest, keskmiselt 48 tuhat BTC kohta  
+[https://cutt.ly/pElb47M](https://cutt.ly/pElb47M)  
+[https://cutt.ly/qElb7F3](https://cutt.ly/qElb7F3)  
+  
+---   
+  
+Send in a voice message: [https://podcasters.spotify.com/pod/show/fomo-taastusravi/message](https://podcasters.spotify.com/pod/show/fomo-taastusravi/message)

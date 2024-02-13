@@ -11,28 +11,28 @@ season: 2
 episodeType: "full"
 ---
 
-Nelja inimest (sealhulgas Nils Grossberg ja Kristjan Ress) DAGcoin ja Success Factory projektist kahtlustatakse 8 miljoni euro väljapetmises ja nad võeti vahi alla kuni kaheks kuuks\
-Pärast nelja aastat arendust, ex-Meta arendajad lanseerisid Aptos L1 plokiahela, mis kutsutakse kui Solana-killer, aga kasutajad pole rahul tokenite jagamisega\
-BNB Smart Chain (Binance Smart Chain) peatati, sest häkker suutis BSC Token Hub bridge'ist topelt BNB tokeneid välja võtta\
-15 aastane häkker nimega Ellis Pinsky (tänaseks 20 aastane), kes 2018 aastal varastas 24 miljonit dollarit Michael Terpin'i kontolt kasutades SIM-swap'i ja social engineering’ut, peab nüüd maksma tagasi 22 miljonit dollarit\
-Google hakkab järgmine aasta aktsepteerima krüptoraha pilveteenuste eest maksmisel, kasutades Coinbase Prime teenust\
-Nüüd kui Ethereum on PoS, NVIDIA eemaldas kaevandamise piirangud\
-Bittrex sai 53 miljonit dollarit trahvi sanktsioonide mittetäitmise eest aastatel 2014-2017\
-Kaheksas sanktsioonide pakett keelab venelastel riikidevahelised krüptoraha ülekanded\
-Selle peale keelas Dapper Labs venelastel väljakanded oma Dapper rahakotist, sest neil on Kasutustingimustes kirjas, et nad võivad seda teha\
-Natukene hiljem aga muutsid meelt ja lubasid kasutajatel oma NFT'd välja kanda mõnda teisse Flow toetavasse rahakotti\
-Gary Gensler (SEC) seletas, et enamus krüptorahadest (ka algoritmilised stabiilsusrahad, aga mitte Bitcoin) peaksid olema SEC poolt reguleeritud, sest nad on väärtpaberid, aga varaga tagatud stabiilsusrahad peaksid olema CFTC poolt reguleeritud ja kellele peaks rohkem õigusi juurde andma\
-CFTC nõustub, et nad peaksid suuremad volitused saama, et reguleerida krüptoraha, sealhulgas ka Bitcoini\
-CFTC arvab, et Bitcoini hind võib duubeldada kui Bitcoiniga hakatakse kauplema CFTC-reguleeritud turgudel\
-ReadyPlayerMe lanseeris uue API, mis võimaldab arendajatel saada lihtsamini nende mängule sobiva 3D mudeli\
-Meta Connect 2022 livestream'is teatati, et Horizon Worlds avatarid saavad viimaks jalad alla, hiljem tuli välja, et demo oli pre-recorded motion capture\
-Ja loomulikult kuulutati välja ka Meta Quest Pro peaseade, mis on Meta Quest 2'st 3.5x kallim, aga võimaldab nüüd ka AR lahendusi teha\
-Lisaks teatati, et Xbox Cloud Gaming tuleb Meta Quest 2 peaseadmele\
-Youtube’ist leiab ka 10 minutilise kokkuvõtte\
-Uus saade ja uus võrk jälle lisatud OpenSea’le, nüüd siis ka Avalanche\
-Steve Aoki ütles, et ta on NFT’dega teeniud rohkem kui kümne aasta muusikaga\
-https://cutt.ly/0B2p16u\
-\
---- \
-\
-Send in a voice message: https://podcasters.spotify.com/pod/show/fomo-taastusravi/message
+Nelja inimest (sealhulgas Nils Grossberg ja Kristjan Ress) DAGcoin ja Success Factory projektist kahtlustatakse 8 miljoni euro väljapetmises ja nad võeti vahi alla kuni kaheks kuuks  
+Pärast nelja aastat arendust, ex-Meta arendajad lanseerisid Aptos L1 plokiahela, mis kutsutakse kui Solana-killer, aga kasutajad pole rahul tokenite jagamisega  
+BNB Smart Chain (Binance Smart Chain) peatati, sest häkker suutis BSC Token Hub bridge'ist topelt BNB tokeneid välja võtta  
+15 aastane häkker nimega Ellis Pinsky (tänaseks 20 aastane), kes 2018 aastal varastas 24 miljonit dollarit Michael Terpin'i kontolt kasutades SIM-swap'i ja social engineering’ut, peab nüüd maksma tagasi 22 miljonit dollarit  
+Google hakkab järgmine aasta aktsepteerima krüptoraha pilveteenuste eest maksmisel, kasutades Coinbase Prime teenust  
+Nüüd kui Ethereum on PoS, NVIDIA eemaldas kaevandamise piirangud  
+Bittrex sai 53 miljonit dollarit trahvi sanktsioonide mittetäitmise eest aastatel 2014-2017  
+Kaheksas sanktsioonide pakett keelab venelastel riikidevahelised krüptoraha ülekanded  
+Selle peale keelas Dapper Labs venelastel väljakanded oma Dapper rahakotist, sest neil on Kasutustingimustes kirjas, et nad võivad seda teha  
+Natukene hiljem aga muutsid meelt ja lubasid kasutajatel oma NFT'd välja kanda mõnda teisse Flow toetavasse rahakotti  
+Gary Gensler (SEC) seletas, et enamus krüptorahadest (ka algoritmilised stabiilsusrahad, aga mitte Bitcoin) peaksid olema SEC poolt reguleeritud, sest nad on väärtpaberid, aga varaga tagatud stabiilsusrahad peaksid olema CFTC poolt reguleeritud ja kellele peaks rohkem õigusi juurde andma  
+CFTC nõustub, et nad peaksid suuremad volitused saama, et reguleerida krüptoraha, sealhulgas ka Bitcoini  
+CFTC arvab, et Bitcoini hind võib duubeldada kui Bitcoiniga hakatakse kauplema CFTC-reguleeritud turgudel  
+ReadyPlayerMe lanseeris uue API, mis võimaldab arendajatel saada lihtsamini nende mängule sobiva 3D mudeli  
+Meta Connect 2022 livestream'is teatati, et Horizon Worlds avatarid saavad viimaks jalad alla, hiljem tuli välja, et demo oli pre-recorded motion capture  
+Ja loomulikult kuulutati välja ka Meta Quest Pro peaseade, mis on Meta Quest 2'st 3.5x kallim, aga võimaldab nüüd ka AR lahendusi teha  
+Lisaks teatati, et Xbox Cloud Gaming tuleb Meta Quest 2 peaseadmele  
+Youtube’ist leiab ka 10 minutilise kokkuvõtte  
+Uus saade ja uus võrk jälle lisatud OpenSea’le, nüüd siis ka Avalanche  
+Steve Aoki ütles, et ta on NFT’dega teeniud rohkem kui kümne aasta muusikaga  
+[https://cutt.ly/0B2p16u](https://cutt.ly/0B2p16u)  
+  
+---   
+  
+Send in a voice message: [https://podcasters.spotify.com/pod/show/fomo-taastusravi/message](https://podcasters.spotify.com/pod/show/fomo-taastusravi/message)

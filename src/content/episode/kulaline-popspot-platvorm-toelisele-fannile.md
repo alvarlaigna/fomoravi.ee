@@ -11,10 +11,10 @@ season: 2
 episodeType: "bonus"
 ---
 
-PopSpot on uus sotsiaalmeediaplatvorm ja enamgi veel. Platvorm koondab juba mitmeid tuntud popartiste, kuid samal ajal ei ole vaid muusikutele. Ühtlasi plaanivad nad muuta oluliselt sotsialiseeri & teeni mudelit ning sotsiaalmeedia tulevikku tervikuna. Eriti web3 kontekstis. Kõigest lähemalt kuula juba saates ning loe lisa lisatud viidetest.\
-https://www.popspot.com/\
-https://popspot.medium.com/\
-\
---- \
-\
-Send in a voice message: https://podcasters.spotify.com/pod/show/fomo-taastusravi/message
+PopSpot on uus sotsiaalmeediaplatvorm ja enamgi veel. Platvorm koondab juba mitmeid tuntud popartiste, kuid samal ajal ei ole vaid muusikutele. Ühtlasi plaanivad nad muuta oluliselt sotsialiseeri & teeni mudelit ning sotsiaalmeedia tulevikku tervikuna. Eriti web3 kontekstis. Kõigest lähemalt kuula juba saates ning loe lisa lisatud viidetest.  
+[https://www.popspot.com/](https://www.popspot.com/)  
+[https://popspot.medium.com/](https://popspot.medium.com/)  
+  
+---   
+  
+Send in a voice message: [https://podcasters.spotify.com/pod/show/fomo-taastusravi/message](https://podcasters.spotify.com/pod/show/fomo-taastusravi/message)

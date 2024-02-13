@@ -11,22 +11,22 @@ season: 1
 episodeType: "full"
 ---
 
-Uue taskuhäälingu esimene, toores episood aitamaks FOMO sõltlastel eluga toime tulla.\
-* Koeratokenid ja Vitaliku heategevus - DOGE, Shiba Inu (SHIB, LEASH, BONE), Akita Inu (AKITA), Dogelon Mars (ELON), SHIBAPUP, Kishu Inu (KISHU), HUSKY, DogeSwap (DOGES), Doge Token (DOGET), jne\
-https://decrypt.co/70672/dogecoin-spinoff-shib-tanks-after-ethereum-founder-vitalik-buterin-dumps-tokens \
-https://cryptopotato.com/the-dogecoin-doge-copycats-shiba-inu-and-5-others-you-must-know-about/\
-https://twitter.com/hudsonjameson/status/1392554160952905728\
-* Elon FUD ja energiasäästlikud coinid\
-https://decrypt.co/70996/elon-musk-bitcoin-dogecoin-prices-no-one-man-should-have-all-that-power\
-https://twitter.com/tarmo888/status/1392803085601415168\
-https://twitter.com/elonmusk/status/1393738154889338884\
-https://coincarboncap.com/\
-* Polygon (MATIC) - kes ilma jäid ja kuidas see töötab\
-* Pension - Bitcoini ja Ethereumi investeerimisest PIK ja Kasvukontoga\
-https://www.lhv.ee/et/pik\
-https://www.dividendinvestor.ee/2021/01/09/lhv-pensioni-investeerimiskonto-analuus-ja-minu-kasvukonto-ulevaade/\
-\
-\
---- \
-\
-Send in a voice message: https://podcasters.spotify.com/pod/show/fomo-taastusravi/message
+Uue taskuhäälingu esimene, toores episood aitamaks FOMO sõltlastel eluga toime tulla.  
+* Koeratokenid ja Vitaliku heategevus - DOGE, Shiba Inu (SHIB, LEASH, BONE), Akita Inu (AKITA), Dogelon Mars (ELON), SHIBAPUP, Kishu Inu (KISHU), HUSKY, DogeSwap (DOGES), Doge Token (DOGET), jne  
+[https://decrypt.co/70672/dogecoin-spinoff-shib-tanks-after-ethereum-founder-vitalik-buterin-dumps-tokens](https://decrypt.co/70672/dogecoin-spinoff-shib-tanks-after-ethereum-founder-vitalik-buterin-dumps-tokens)   
+[https://cryptopotato.com/the-dogecoin-doge-copycats-shiba-inu-and-5-others-you-must-know-about/](https://cryptopotato.com/the-dogecoin-doge-copycats-shiba-inu-and-5-others-you-must-know-about/)  
+[https://twitter.com/hudsonjameson/status/1392554160952905728](https://twitter.com/hudsonjameson/status/1392554160952905728)  
+* Elon FUD ja energiasäästlikud coinid  
+[https://decrypt.co/70996/elon-musk-bitcoin-dogecoin-prices-no-one-man-should-have-all-that-power](https://decrypt.co/70996/elon-musk-bitcoin-dogecoin-prices-no-one-man-should-have-all-that-power)  
+[https://twitter.com/tarmo888/status/1392803085601415168](https://twitter.com/tarmo888/status/1392803085601415168)  
+[https://twitter.com/elonmusk/status/1393738154889338884](https://twitter.com/elonmusk/status/1393738154889338884)  
+[https://coincarboncap.com/](https://coincarboncap.com/)  
+* Polygon (MATIC) - kes ilma jäid ja kuidas see töötab  
+* Pension - Bitcoini ja Ethereumi investeerimisest PIK ja Kasvukontoga  
+[https://www.lhv.ee/et/pik](https://www.lhv.ee/et/pik)  
+[https://www.dividendinvestor.ee/2021/01/09/lhv-pensioni-investeerimiskonto-analuus-ja-minu-kasvukonto-ulevaade/](https://www.dividendinvestor.ee/2021/01/09/lhv-pensioni-investeerimiskonto-analuus-ja-minu-kasvukonto-ulevaade/)  
+  
+  
+---   
+  
+Send in a voice message: [https://podcasters.spotify.com/pod/show/fomo-taastusravi/message](https://podcasters.spotify.com/pod/show/fomo-taastusravi/message)

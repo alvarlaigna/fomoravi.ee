@@ -11,29 +11,29 @@ season: 2
 episodeType: "full"
 ---
 
-Sander Gansen käis Delfi’s, Pealtnägijas ja ka meie taskuhäälingus kogus selle saate teemasid kommenteerimas\
-Käes on tuludeklaratsiooni aeg, LHV kirjutas artikli kuidas krüptoraha tulu deklareerida\
-Heather 'Razzlekhan' Morgan sai kautsjoni (3 miljonit dollarit) vastu juba vanglast välja tänu tervisega seotud põhjustele\
-Netflix juba andis rohelise tule, et teha Bitfinexi häkist ja varastatud Bitcoini rahapesust dokumentaalfilm\
-GateHub kolib juriidilise keha ja panga mida nad kasutavad, Inglismaalt Leetu. Need kellele see ei meeldi, neil on aega 1. Märtsini oma varad välja kanda\
-SEC määras BlockFi-le 100 miljoni dollarise trahvi, sest nad ei registreerinud oma kõrge tootlusega toodet\
-Kanada kehtestas eriolukorra, mis võimaldab piirata protesteerijatel (nad kutsuvad neid terroristideks) ligipääsu rahale ilma kohtu määruseta, sealhulgas ka krüptorahale\
-Järjekordne DeFi analüütikafirma sai rahasüsti (viimati 31. saates), seekord oli selleks Dune Analytics tõstis ilusa summa, 69 miljonit ja 420 tuhat dollarit (B seeria) ja sai väärtuseks 1 miljard (üksiksarv)\
-Binance Chain ja Binance Smart Chain tegid ka rebrändi, nüüd on BNB Beacon Chain ja BNB Smart Chain\
-Vormel 1 uus Miami etapp saam nimeks: Formula 1 Crypto.com Miami Grand Prix\
-HEX krüptoraha looja Richard Heart ostis 4.5 miljoni dollarise teemanti krüptorahaga Sotheby's oktsionimajast\
-Sandbox SAND tokenit saab nüüd Polygon võrgu peal stake’ida ka ilma MATIC tokenita, SAND-ETH Uniswap LP tokenite stake’imine lõpetatakse kuu lõpus\
-Gala Games tegi Gala Music keskkonna, esimesena müügis Snoop Dogg muusika, kes ostis oma kunagise Record Label'i ära\
-Bud Light tegi N3XT NFT kollektsiooni (mintimine ainult USA turule, järelturul kõigile) ja viitas oma SuperBowl reklaamis ka Nouns NFT projektile\
-Peale Bud Lighti reklaami oli SuperBowl'il mitmeid teisi krüptoreklaame Coinbase’ilt, FTX’ilt, eToro’lt ja Crypto.com’ilt\
-Tulnukas tüüpi CryptoPunk müüdi 23.7 miljoni dollari eest\
-Cryptovoxels maailma tehti uue Andromeda nimelise saare\
-Propy abil müüdi USA's 210 ETH (ehk 653 000 dollari) eest esimene kinnisvara, ostja sai tõestuseks NFT\
-Nagu varem ennustatud, Zynga tuleb NFT mänguga välja juba sel aastal\
-Vine rakenduse ja Loot NFT looja, Dom Hofmann, tõstis 12 miljonit dollarit, et teha järgmine NFT projekt nimega Blitmap\
-OnlyFans-is saab nüüd ka panna… NFT oma profiilipildiks (nagu Twitter Blue'ga)\
-https://cutt.ly/RPR8K1z\
-\
---- \
-\
-Send in a voice message: https://podcasters.spotify.com/pod/show/fomo-taastusravi/message
+Sander Gansen käis Delfi’s, Pealtnägijas ja ka meie taskuhäälingus kogus selle saate teemasid kommenteerimas  
+Käes on tuludeklaratsiooni aeg, LHV kirjutas artikli kuidas krüptoraha tulu deklareerida  
+Heather 'Razzlekhan' Morgan sai kautsjoni (3 miljonit dollarit) vastu juba vanglast välja tänu tervisega seotud põhjustele  
+Netflix juba andis rohelise tule, et teha Bitfinexi häkist ja varastatud Bitcoini rahapesust dokumentaalfilm  
+GateHub kolib juriidilise keha ja panga mida nad kasutavad, Inglismaalt Leetu. Need kellele see ei meeldi, neil on aega 1. Märtsini oma varad välja kanda  
+SEC määras BlockFi-le 100 miljoni dollarise trahvi, sest nad ei registreerinud oma kõrge tootlusega toodet  
+Kanada kehtestas eriolukorra, mis võimaldab piirata protesteerijatel (nad kutsuvad neid terroristideks) ligipääsu rahale ilma kohtu määruseta, sealhulgas ka krüptorahale  
+Järjekordne DeFi analüütikafirma sai rahasüsti (viimati 31. saates), seekord oli selleks Dune Analytics tõstis ilusa summa, 69 miljonit ja 420 tuhat dollarit (B seeria) ja sai väärtuseks 1 miljard (üksiksarv)  
+Binance Chain ja Binance Smart Chain tegid ka rebrändi, nüüd on BNB Beacon Chain ja BNB Smart Chain  
+Vormel 1 uus Miami etapp saam nimeks: Formula 1 Crypto.com Miami Grand Prix  
+HEX krüptoraha looja Richard Heart ostis 4.5 miljoni dollarise teemanti krüptorahaga Sotheby's oktsionimajast  
+Sandbox SAND tokenit saab nüüd Polygon võrgu peal stake’ida ka ilma MATIC tokenita, SAND-ETH Uniswap LP tokenite stake’imine lõpetatakse kuu lõpus  
+Gala Games tegi Gala Music keskkonna, esimesena müügis Snoop Dogg muusika, kes ostis oma kunagise Record Label'i ära  
+Bud Light tegi N3XT NFT kollektsiooni (mintimine ainult USA turule, järelturul kõigile) ja viitas oma SuperBowl reklaamis ka Nouns NFT projektile  
+Peale Bud Lighti reklaami oli SuperBowl'il mitmeid teisi krüptoreklaame Coinbase’ilt, FTX’ilt, eToro’lt ja Crypto.com’ilt  
+Tulnukas tüüpi CryptoPunk müüdi 23.7 miljoni dollari eest  
+Cryptovoxels maailma tehti uue Andromeda nimelise saare  
+Propy abil müüdi USA's 210 ETH (ehk 653 000 dollari) eest esimene kinnisvara, ostja sai tõestuseks NFT  
+Nagu varem ennustatud, Zynga tuleb NFT mänguga välja juba sel aastal  
+Vine rakenduse ja Loot NFT looja, Dom Hofmann, tõstis 12 miljonit dollarit, et teha järgmine NFT projekt nimega Blitmap  
+OnlyFans-is saab nüüd ka panna… NFT oma profiilipildiks (nagu Twitter Blue'ga)  
+[https://cutt.ly/RPR8K1z](https://cutt.ly/RPR8K1z)  
+  
+---   
+  
+Send in a voice message: [https://podcasters.spotify.com/pod/show/fomo-taastusravi/message](https://podcasters.spotify.com/pod/show/fomo-taastusravi/message)

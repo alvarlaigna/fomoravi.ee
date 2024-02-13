@@ -11,11 +11,11 @@ season: 1
 episodeType: "bonus"
 ---
 
-Slavik tegi keyloggeri ja botneti nimega Zeus aastal 2007 (ta oli siis 22 aastane), mis 2011. aastaks oli edasi arendatud P2P botnetiks nimega GameOver Zeus. 2013 aastal tegi ta krüptoraha nõudva lunaraha tarkvara nimega CryptoLocker. Kuula, et teada saada, kuidas see juhtus!\
-https://www.technologyreview.com/2021/07/08/1027999/fbi-russia-ukraine-cybercrime-investigation-ransomware/\
-https://www.wired.com/2017/03/russian-hacker-spy-botnet/\
-https://siberiantimes.com/other/others/news/n0788-hideous-drowning-of-yanukovych-junior-in-baikal-after-he-got-stuck-under-the-ice/\
-\
---- \
-\
-Send in a voice message: https://podcasters.spotify.com/pod/show/fomo-taastusravi/message
+Slavik tegi keyloggeri ja botneti nimega Zeus aastal 2007 (ta oli siis 22 aastane), mis 2011. aastaks oli edasi arendatud P2P botnetiks nimega GameOver Zeus. 2013 aastal tegi ta krüptoraha nõudva lunaraha tarkvara nimega CryptoLocker. Kuula, et teada saada, kuidas see juhtus!  
+[https://www.technologyreview.com/2021/07/08/1027999/fbi-russia-ukraine-cybercrime-investigation-ransomware/](https://www.technologyreview.com/2021/07/08/1027999/fbi-russia-ukraine-cybercrime-investigation-ransomware/)  
+[https://www.wired.com/2017/03/russian-hacker-spy-botnet/](https://www.wired.com/2017/03/russian-hacker-spy-botnet/)  
+[https://siberiantimes.com/other/others/news/n0788-hideous-drowning-of-yanukovych-junior-in-baikal-after-he-got-stuck-under-the-ice/](https://siberiantimes.com/other/others/news/n0788-hideous-drowning-of-yanukovych-junior-in-baikal-after-he-got-stuck-under-the-ice/)  
+  
+---   
+  
+Send in a voice message: [https://podcasters.spotify.com/pod/show/fomo-taastusravi/message](https://podcasters.spotify.com/pod/show/fomo-taastusravi/message)

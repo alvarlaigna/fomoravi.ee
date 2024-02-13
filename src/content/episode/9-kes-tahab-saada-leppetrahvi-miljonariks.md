@@ -11,31 +11,31 @@ season: 1
 episodeType: "full"
 ---
 
-Uudisterohkes osas rääkisime järgmistel allpool mainitud teemadel. Muuhulgas on juulikuumuses endiselt teemaks NFTd.\
-https://www.reuters.com/technology/crypto-exchange-binance-temporarily-suspends-payments-eus-sepa-network-ft-2021-07-06/\
-https://cointelegraph.com/news/poland-financial-regulator-issues-public-warning-about-binance/\
-Simplex lisas SEPA maksete toe\
-https://cointelegraph.com/news/fiat-to-crypto-onramp-simplex-integrates-sepa-instant-for-european-partners\
-VISA teatas, et esimese poole aastaga on miljardi eest tasutud krüptorahaga seotud kaartidega\
-https://decrypt.co/75403/visa-more-than-1-billion-spent-using-crypto-linked-cards-in-2021\
-Crypto.com sai esimesena Maltas EMI litsentsi, millist Binance ka taotles, aga ei saanud\
-https://decrypt.co/75608/crypto-com-first-exchange-approved-to-offer-bank-transfers-in-malta\
-Rahapesu ja vargus Xbox kinkekaartidega Paxful lehel\
-https://www.bloomberg.com/features/2021-microsoft-xbox-gift-card-fraud/\
-https://digipro.geenius.ee/rubriik/uudis/eestlase-kaasasutatud-kruptoplatvormil-paxful-toimus-suur-rahapettus/\
-Üks Cryptopia rahakottide tühjendajatest pärast börsi sulgemist oli ex-töötaja\
-https://decrypt.co/75271/ex-cryptopia-employee-admits-stealing-170000-exchange\
-Square (Jack Dorsey ettevõte) ehitab riistvara rahakotti Bitcoinile\
-https://cointelegraph.com/news/jack-dorsey-confirms-square-is-building-an-assisted-custody-btc-hardware-wallet/\
-Bitmain olevat ennist tootmise peatanud, aga müüavad endiselt USAsse\
-SEC esitas süüdistuse Long Blockchain Company (endise nimega Long Island Iced Tea Company) seotud inimestele, sest vihjasid investoritele nimemuudatusest\
-SEC ja 3/5st Bitconnecti promootorit on nõustumas leppetrahviga, Trevon Brown (Trevon James) veel mitte\
-Techlead nimelist Youtuberit süüdistatakse oma tokeni pump-and-dumpis\
-Kauaoodatud EIP-1559 uuendusele pakuti välja block height (ehk eeldatav kuupäev)\
-https://decrypt.co/75349/ethereum-update-reduce-eth-supply-likely-coming-august\
-Walking Dead liitus ka Sandbox NFT platvormiga, Smurfid ja Lammas Shaun liitusid varem\
-https://decrypt.co/75446/ethereum-based-metaverse-sandbox-enlists-the-walking-dead\
-\
---- \
-\
-Send in a voice message: https://podcasters.spotify.com/pod/show/fomo-taastusravi/message
+Uudisterohkes osas rääkisime järgmistel allpool mainitud teemadel. Muuhulgas on juulikuumuses endiselt teemaks NFTd.  
+[https://www.reuters.com/technology/crypto-exchange-binance-temporarily-suspends-payments-eus-sepa-network-ft-2021-07-06/](https://www.reuters.com/technology/crypto-exchange-binance-temporarily-suspends-payments-eus-sepa-network-ft-2021-07-06/)  
+[https://cointelegraph.com/news/poland-financial-regulator-issues-public-warning-about-binance/](https://cointelegraph.com/news/poland-financial-regulator-issues-public-warning-about-binance/)  
+Simplex lisas SEPA maksete toe  
+[https://cointelegraph.com/news/fiat-to-crypto-onramp-simplex-integrates-sepa-instant-for-european-partners](https://cointelegraph.com/news/fiat-to-crypto-onramp-simplex-integrates-sepa-instant-for-european-partners)  
+VISA teatas, et esimese poole aastaga on miljardi eest tasutud krüptorahaga seotud kaartidega  
+[https://decrypt.co/75403/visa-more-than-1-billion-spent-using-crypto-linked-cards-in-2021](https://decrypt.co/75403/visa-more-than-1-billion-spent-using-crypto-linked-cards-in-2021)  
+Crypto.com sai esimesena Maltas EMI litsentsi, millist Binance ka taotles, aga ei saanud  
+[https://decrypt.co/75608/crypto-com-first-exchange-approved-to-offer-bank-transfers-in-malta](https://decrypt.co/75608/crypto-com-first-exchange-approved-to-offer-bank-transfers-in-malta)  
+Rahapesu ja vargus Xbox kinkekaartidega Paxful lehel  
+[https://www.bloomberg.com/features/2021-microsoft-xbox-gift-card-fraud/](https://www.bloomberg.com/features/2021-microsoft-xbox-gift-card-fraud/)  
+[https://digipro.geenius.ee/rubriik/uudis/eestlase-kaasasutatud-kruptoplatvormil-paxful-toimus-suur-rahapettus/](https://digipro.geenius.ee/rubriik/uudis/eestlase-kaasasutatud-kruptoplatvormil-paxful-toimus-suur-rahapettus/)  
+Üks Cryptopia rahakottide tühjendajatest pärast börsi sulgemist oli ex-töötaja  
+[https://decrypt.co/75271/ex-cryptopia-employee-admits-stealing-170000-exchange](https://decrypt.co/75271/ex-cryptopia-employee-admits-stealing-170000-exchange)  
+Square (Jack Dorsey ettevõte) ehitab riistvara rahakotti Bitcoinile  
+[https://cointelegraph.com/news/jack-dorsey-confirms-square-is-building-an-assisted-custody-btc-hardware-wallet/](https://cointelegraph.com/news/jack-dorsey-confirms-square-is-building-an-assisted-custody-btc-hardware-wallet/)  
+Bitmain olevat ennist tootmise peatanud, aga müüavad endiselt USAsse  
+SEC esitas süüdistuse Long Blockchain Company (endise nimega Long Island Iced Tea Company) seotud inimestele, sest vihjasid investoritele nimemuudatusest  
+SEC ja 3/5st Bitconnecti promootorit on nõustumas leppetrahviga, Trevon Brown (Trevon James) veel mitte  
+Techlead nimelist Youtuberit süüdistatakse oma tokeni pump-and-dumpis  
+Kauaoodatud EIP-1559 uuendusele pakuti välja block height (ehk eeldatav kuupäev)  
+[https://decrypt.co/75349/ethereum-update-reduce-eth-supply-likely-coming-august](https://decrypt.co/75349/ethereum-update-reduce-eth-supply-likely-coming-august)  
+Walking Dead liitus ka Sandbox NFT platvormiga, Smurfid ja Lammas Shaun liitusid varem  
+[https://decrypt.co/75446/ethereum-based-metaverse-sandbox-enlists-the-walking-dead](https://decrypt.co/75446/ethereum-based-metaverse-sandbox-enlists-the-walking-dead)  
+  
+---   
+  
+Send in a voice message: [https://podcasters.spotify.com/pod/show/fomo-taastusravi/message](https://podcasters.spotify.com/pod/show/fomo-taastusravi/message)

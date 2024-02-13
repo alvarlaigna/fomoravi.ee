@@ -11,35 +11,35 @@ season: 1
 episodeType: "full"
 ---
 
-Suvi on täies hoos, kuid tehnoloogia suvel ei puhka ja krüptos toimus nii mõndagi. \
-https://decrypt.co/75162/bitcoin-mining-records-largest-difficulty-drop-ever-heres-what-miners-say\
-https://btc.com/stats/diff\
-Kaevandajad ise ütlevad, et üle poole energiast on sustainable\
-https://decrypt.co/75103/bitcoin-mining-council-report-clean-energy\
-Binance-il on veel rohkem probleeme\
-https://decrypt.co/75042/binance-not-authorised-to-operate-in-cayman-islands\
-Coinmarketcap (Binance-i oma) integreeris Uniswapi (Ethereum), aga mitte PancakeSwapi (BSC)\
-https://decrypt.co/74806/coinmarketcap-taps-uniswap-for-erc20-token-swaps\
-Coinbase muutis USDC hoidmise intressi 4% peale\
-https://cointelegraph.com/news/coinbase-will-pay-users-4-interest-on-usdc-holdings\
-SafeDollar (SDO) stabiilsusraha Polygoni peal ei olnud “safe”, kukkus nulli (250k läks kaduma)\
-https://wccftech.com/safedollar-sdo-stablecoin-finds-safety-at-the-0-level-after-an-exploit-manages-to-trick-the-polygon-based-platforms-transaction-fee-algorithm/\
-CounterStake Bridge launch (Obyte <-> Ethereum, Obyte <-> BSC, Ethereum <-> BSC)\
-https://blog.obyte.org/counterstake-a-truly-decentralized-cross-chain-bridge-2d4a575b3f4a\
-https://counterstake.org/\
-Bitcoin whitepaper pole enam Ühendkuningriikide IP aadressidelt loetav, aga sama whitepaper on olemas Bitcoini plokiahelas\
-https://cointelegraph.com/news/bitcoin-org-blocks-access-to-bitcoin-software-download-in-the-uk\
-https://btcexplorer.tobg.services/bitcoin-whitepaper \
-Saksamaa special funds\
-https://www.coindesk.com/german-law-allowing-415b-investment-into-crypto-takes-effect\
-Twitter tegi NFT dropi Rarible marketplace-i\
-https://decrypt.co/74896/twitter-drops-its-own-twitter-themed-nfts-on-rarible\
-Sandbox NFT arendaja Animoca sai järjekordse rahasüsti, seekord Coinbase Ventures käest\
-https://decrypt.co/74994/nft-gaming-unicorn-animoca-raises-50m-coinbase\
-Crypto.com sõlmis partnerluse F1-ga\
-https://decrypt.co/74857/crypto-com-inks-100-million-partnership-with-formula-1\
-\
-\
---- \
-\
-Send in a voice message: https://podcasters.spotify.com/pod/show/fomo-taastusravi/message
+Suvi on täies hoos, kuid tehnoloogia suvel ei puhka ja krüptos toimus nii mõndagi.   
+[https://decrypt.co/75162/bitcoin-mining-records-largest-difficulty-drop-ever-heres-what-miners-say](https://decrypt.co/75162/bitcoin-mining-records-largest-difficulty-drop-ever-heres-what-miners-say)  
+[https://btc.com/stats/diff](https://btc.com/stats/diff)  
+Kaevandajad ise ütlevad, et üle poole energiast on sustainable  
+[https://decrypt.co/75103/bitcoin-mining-council-report-clean-energy](https://decrypt.co/75103/bitcoin-mining-council-report-clean-energy)  
+Binance-il on veel rohkem probleeme  
+[https://decrypt.co/75042/binance-not-authorised-to-operate-in-cayman-islands](https://decrypt.co/75042/binance-not-authorised-to-operate-in-cayman-islands)  
+Coinmarketcap (Binance-i oma) integreeris Uniswapi (Ethereum), aga mitte PancakeSwapi (BSC)  
+[https://decrypt.co/74806/coinmarketcap-taps-uniswap-for-erc20-token-swaps](https://decrypt.co/74806/coinmarketcap-taps-uniswap-for-erc20-token-swaps)  
+Coinbase muutis USDC hoidmise intressi 4% peale  
+[https://cointelegraph.com/news/coinbase-will-pay-users-4-interest-on-usdc-holdings](https://cointelegraph.com/news/coinbase-will-pay-users-4-interest-on-usdc-holdings)  
+SafeDollar (SDO) stabiilsusraha Polygoni peal ei olnud “safe”, kukkus nulli (250k läks kaduma)  
+[https://wccftech.com/safedollar-sdo-stablecoin-finds-safety-at-the-0-level-after-an-exploit-manages-to-trick-the-polygon-based-platforms-transaction-fee-algorithm/](https://wccftech.com/safedollar-sdo-stablecoin-finds-safety-at-the-0-level-after-an-exploit-manages-to-trick-the-polygon-based-platforms-transaction-fee-algorithm/)  
+CounterStake Bridge launch (Obyte <-> Ethereum, Obyte <-> BSC, Ethereum <-> BSC)  
+[https://blog.obyte.org/counterstake-a-truly-decentralized-cross-chain-bridge-2d4a575b3f4a](https://blog.obyte.org/counterstake-a-truly-decentralized-cross-chain-bridge-2d4a575b3f4a)  
+[https://counterstake.org/](https://counterstake.org/)  
+Bitcoin whitepaper pole enam Ühendkuningriikide IP aadressidelt loetav, aga sama whitepaper on olemas Bitcoini plokiahelas  
+[https://cointelegraph.com/news/bitcoin-org-blocks-access-to-bitcoin-software-download-in-the-uk](https://cointelegraph.com/news/bitcoin-org-blocks-access-to-bitcoin-software-download-in-the-uk)  
+[https://btcexplorer.tobg.services/bitcoin-whitepaper](https://btcexplorer.tobg.services/bitcoin-whitepaper)   
+Saksamaa special funds  
+[https://www.coindesk.com/german-law-allowing-415b-investment-into-crypto-takes-effect](https://www.coindesk.com/german-law-allowing-415b-investment-into-crypto-takes-effect)  
+Twitter tegi NFT dropi Rarible marketplace-i  
+[https://decrypt.co/74896/twitter-drops-its-own-twitter-themed-nfts-on-rarible](https://decrypt.co/74896/twitter-drops-its-own-twitter-themed-nfts-on-rarible)  
+Sandbox NFT arendaja Animoca sai järjekordse rahasüsti, seekord Coinbase Ventures käest  
+[https://decrypt.co/74994/nft-gaming-unicorn-animoca-raises-50m-coinbase](https://decrypt.co/74994/nft-gaming-unicorn-animoca-raises-50m-coinbase)  
+Crypto.com sõlmis partnerluse F1-ga  
+[https://decrypt.co/74857/crypto-com-inks-100-million-partnership-with-formula-1](https://decrypt.co/74857/crypto-com-inks-100-million-partnership-with-formula-1)  
+  
+  
+---   
+  
+Send in a voice message: [https://podcasters.spotify.com/pod/show/fomo-taastusravi/message](https://podcasters.spotify.com/pod/show/fomo-taastusravi/message)
