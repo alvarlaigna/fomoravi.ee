@@ -26,6 +26,15 @@ export default defineConfig({
     tailwind(),
     Compress()
   ],
+  markdown: {
+    remarkPlugins: [      
+      remarkExternalLinks,
+    ],
+    shikiConfig: {
+      theme: "one-dark-pro",
+      wrap: true,
+    },
+  },
   image: {
     domains: ["astro.build"]
   },

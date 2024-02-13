@@ -48,7 +48,7 @@
                 },
                 {
                     "key": "Content-Security-Policy",
-                    "value": "default-src 'self' 'unsafe-inline' *.google-analytics.com www.googletagmanager.com anchor.fm; style-src 'self' 'unsafe-inline' fonts.googleapis.com; font-src 'self' data: fonts.googleapis.com fonts.gstatic.com; img-src 'self' 'unsafe-inline' data: d3t3ozftmdmh3i.cloudfront.net anchor.fm"
+                    "value": "default-src 'self' 'unsafe-inline' *.google-analytics.com www.googletagmanager.com anchor.fm *.cloudfront.net; style-src 'self' 'unsafe-inline' fonts.googleapis.com; font-src 'self' data: fonts.googleapis.com fonts.gstatic.com; img-src 'self' 'unsafe-inline' data: *.cloudfront.net anchor.fm"
                 }                                                  
             ]
         }
