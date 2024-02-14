@@ -1,4 +1,4 @@
-import { defineConfig } from "astro/config";
+import { defineConfig, squooshImageService } from "astro/config";
 import mdx from "@astrojs/mdx";
 import sitemap from "@astrojs/sitemap";
 import tailwind from "@astrojs/tailwind";
@@ -16,6 +16,12 @@ import Compress from "astro-compress";
 export default defineConfig({
   site: astropodConfig.site,
   trailingSlash: "never",
+  image: {
+    domains: ["astro.build", "*.cloudfront.net"],
+    remotePatterns: [{ protocol: "https" }],
+    serviceEntryPoint: '@astrojs/image/sharp',
+    service: squooshImageService(),
+  },
   integrations: [
     robotsTxt(), 
     sitemap(), 
@@ -24,7 +30,7 @@ export default defineConfig({
       rehypePlugins: [rehypeSlug, rehypeAutolinkHeadings],      
     }),     
     tailwind(),
-    Compress()
+    Compress(), 
   ],
   markdown: {
     remarkPlugins: [remarkExternalLinks, remarkGfm],
@@ -33,11 +39,7 @@ export default defineConfig({
       theme: "one-dark-pro",
       wrap: true,
     },
-  },
-  image: {
-    domains: ["astro.build", "cloudfront.net"],
-    remotePatterns: [{ protocol: "https" }],
-  },
+  },		
   vite: {
     optimizeDeps: {
       exclude: ["@resvg/resvg-js"],

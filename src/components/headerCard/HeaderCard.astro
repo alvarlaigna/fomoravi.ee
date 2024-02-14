@@ -9,13 +9,14 @@ import HeartIcon from "../icons/heartIcon.astro";
 import { getImage } from "astro:assets";
 
 const explicitLabel = explicit === undefined ? astropodConfig.explicit : explicit;
-let cover_url = await getImage({ src: cover ? cover : astropodConfig.cover, format: 'webp', width: 304, height: 304});
+let cover_url = await getImage({ src: cover ? cover : astropodConfig.cover, width: 304, height: 304});
+let banner_img = await getImage({ src: astropodConfig.banner, width: 960, height: 320});
 ---
 
 <div class="card min-w-full bg-base-100 shadow-md md:pb-3 w-full">
   <div class="aspect-[3/1] mt-5 w-full">
     <div class="relative inline-block w-full">
-      <img src={astropodConfig.banner} alt={astropodConfig.name + " banner"} class="object-cover w-full aspect-[3/1]" />
+      <img src={banner_img.src} alt={astropodConfig.name + " banner"} class="object-cover w-full aspect-[3/1]" />
       <div
         class="absolute top-0 left-0 items-center justify-center w-full h-full bg-gradient-to-t from-gray-900 to-50% to-transparent"
       >
@@ -35,6 +36,7 @@ let cover_url = await getImage({ src: cover ? cover : astropodConfig.cover, form
     <img
       alt={astropodConfig.name + "cover"}
       width="152" height="152" class="-mt-28 mx-6 md:-mt-28 border-4 z-10 relative border-base-100 rounded-lg md:mx-11 w-24 h-24 md:h-40 md:w-40"
+      loading="lazy" decoding="async"
       src={cover_url.src}
     />
   </div>
