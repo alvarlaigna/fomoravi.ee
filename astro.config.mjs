@@ -36,7 +36,8 @@ export default defineConfig({
     },
   },
   image: {
-    domains: ["astro.build"]
+    domains: ["astro.build", "*.cloudfront.net"],
+    remotePatterns: [{ protocol: "https" }],
   },
   vite: {
     optimizeDeps: {

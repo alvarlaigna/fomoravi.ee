@@ -6,9 +6,10 @@ import ListenOnMenu from "./listenOnMenu.astro";
 import FollowUsMenu from "./followUsMenu.astro";
 import RssIcon from "../icons/rssIcon.astro";
 import HeartIcon from "../icons/heartIcon.astro";
+import { getImage } from "astro:assets";
 
 const explicitLabel = explicit === undefined ? astropodConfig.explicit : explicit;
-let cover_url = cover ? cover : astropodConfig.cover;
+let cover_url = await getImage({ src: cover ? cover : astropodConfig.cover, format: 'webp', width: 304, height: 304});
 ---
 
 <div class="card min-w-full bg-base-100 shadow-md md:pb-3 w-full">
@@ -33,8 +34,8 @@ let cover_url = cover ? cover : astropodConfig.cover;
     </div>
     <img
       alt={astropodConfig.name + "cover"}
-      class="-mt-28 mx-6 md:-mt-28 border-4 z-10 relative border-base-100 rounded-lg md:mx-11 w-24 h-24 md:h-40 md:w-40"
-      src={cover_url}
+      width="152" height="152" class="-mt-28 mx-6 md:-mt-28 border-4 z-10 relative border-base-100 rounded-lg md:mx-11 w-24 h-24 md:h-40 md:w-40"
+      src={cover_url.src}
     />
   </div>
 
