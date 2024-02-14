@@ -27,16 +27,15 @@ export default defineConfig({
     Compress()
   ],
   markdown: {
-    remarkPlugins: [      
-      remarkExternalLinks,
-    ],
+    remarkPlugins: [remarkExternalLinks, remarkGfm],
+    rehypePlugins: [rehypeSlug, rehypeAutolinkHeadings],      
     shikiConfig: {
       theme: "one-dark-pro",
       wrap: true,
     },
   },
   image: {
-    domains: ["astro.build", "*.cloudfront.net"],
+    domains: ["astro.build", "cloudfront.net"],
     remotePatterns: [{ protocol: "https" }],
   },
   vite: {
