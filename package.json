@@ -8,7 +8,8 @@
   "scripts": {
     "dev": "astro dev",
     "start": "astro dev",
-    "build": "node rss-parser.js && astro build",
+    "build": "astro build",
+    "generate": "node rss-parser.js && astro build",
     "preview": "astro preview",
     "astro": "astro"
   },
