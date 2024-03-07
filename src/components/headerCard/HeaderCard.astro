@@ -16,7 +16,7 @@ let banner_img = await getImage({ src: astropodConfig.banner, width: 960, height
 <div class="card min-w-full bg-base-100 shadow-md md:pb-3 w-full">
   <div class="aspect-[3/1] mt-5 w-full">
     <div class="relative inline-block w-full">
-      <img src={banner_img.src} alt={astropodConfig.name + " banner"} class="object-cover w-full aspect-[3/1]" />
+      <img src={banner_img.src} alt={astropodConfig.name + " header"} class="object-cover w-full aspect-[3/1]" />
       <div
         class="absolute top-0 left-0 items-center justify-center w-full h-full bg-gradient-to-t from-gray-900 to-50% to-transparent"
       >
@@ -33,12 +33,12 @@ let banner_img = await getImage({ src: astropodConfig.banner, width: 960, height
         )
       }
     </div>
-    <img
-      alt={astropodConfig.name + "cover"}
+    <a href="/"><img
+      alt={astropodConfig.name + " cover"}
       width="152" height="152" class="-mt-28 mx-6 md:-mt-28 border-4 z-10 relative border-base-100 rounded-lg md:mx-11 w-24 h-24 md:h-40 md:w-40"
       loading="lazy" decoding="async"
       src={cover_url.src}
-    />
+    /></a>
   </div>
 
   <div class="flex md:-mt-12 px-4 md:pl-52">
