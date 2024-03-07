@@ -45,5 +45,15 @@ const url = canonicalUrl.href;
 <meta property="twitter:description" content={description} />
 <meta property="twitter:image" content={new URL(display_image.src, astropodConfig.link)} />
 
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-L0D5CMWYQ5"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-L0D5CMWYQ5');
+</script>
+
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3846167992451103"
      crossorigin="anonymous"></script>
